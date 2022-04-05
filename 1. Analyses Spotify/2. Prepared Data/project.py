@@ -1,6 +1,5 @@
 import csv
 
-
 #1. abrir o arquivo
 with open('top50.csv', encoding='utf-8') as arquivo_referencia:
 
